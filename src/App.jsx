@@ -2,8 +2,6 @@ import React from 'react';
 import { Routes, Route } from 'react-router-dom';
 import { LandingPage } from './pages/landingpage';
 
-
-
 export default function App() {
   return (
     <div className="flex min-h-screen items-center justify-center bg-gray-500">
